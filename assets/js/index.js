@@ -112,4 +112,4 @@ sr.reveal(`.share__img, .send__content`, {
 
 sr.reveal(`.share__data, .send__img`, {
     origin: 'right'
-})
+});
