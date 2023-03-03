@@ -4,6 +4,9 @@
 [![captura-3.png](https://i.postimg.cc/QdVm9rgm/captura-3.png)](https://postimg.cc/WdLgCCHq)
 [![captura-4.png](https://i.postimg.cc/3xPXk0xr/captura-4.png)](https://postimg.cc/yDyg5dR2)
 [![captura-5.png](https://i.postimg.cc/TPVDhksQ/captura-5.png)](https://postimg.cc/nsLzP1pQ)
+
+#Dark Mode
+
 [![captura-6.png](https://i.postimg.cc/BnGZtqG9/captura-6.png)](https://postimg.cc/ykvCbCdv)
 
 #Diseño para dispositivos móviles
